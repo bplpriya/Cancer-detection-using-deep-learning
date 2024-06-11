@@ -1,2 +1,2 @@
 # Cancer detection using deep learning
-Implemented CNN VGG16 on skin cancer dataset which consists of benign and malignant tumors.
+About dataset: Skin cancer dataset which consists of benign and malignant tumors.
